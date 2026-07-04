@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.1+ Release]() = `*Tool files & folder*`
+- [💾 v.1.1+ Release](https://github.com/BlazeOrder54/Victoria-3-DLC-Unlocker/releases) = `*Tool files & folder*`
 
 ---
 
